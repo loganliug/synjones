@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '常规产品'
+
+theme = "hyde"
+[Menus]
+main = [
+#{Name = "Github", URL = "https://github.com/username/"},
+]
+[params]
+description = "新中新常规产品维护"
+copyright = "Copyright (c) 2022, Logan"
