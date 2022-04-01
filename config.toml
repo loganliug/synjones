@@ -1,6 +1,7 @@
-baseURL = 'https://buzzy.gitee.io/synjones'
+baseURL = 'https://buzzy.gitee.io/synjones/'
 languageCode = 'en-us'
 title = '常规产品'
+#relativeurls = true
 
 theme = "hyde"
 [Menus]
